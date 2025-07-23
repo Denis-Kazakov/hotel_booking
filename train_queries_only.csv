@@ -1,0 +1,636 @@
+available,query
+True," Subject: Room Reservation Request at Premier Boutique Stay, New York (September 2025 - June 2026)
+
+Dear Hotel Reservations,
+
+I am reaching out to book a room for an extended stay at your Premier Boutique Stay hotel in New York City. I would like to request a room from September 22nd, 2025 to June 5th, 2026. "
+False," Hello, I'd like to make a reservation for a room at The Heritage Corner Hotel, Delhi, for the period between January 29, 2026, and June 25, 2026. "
+True," I need some suggestions for hotels available in Moscow from June 28, 2026 to June 30, 2026"
+True," Hi there, could you please provide me with a list of available hotels in Karachi for the upcoming week?"
+False," Hi there! I'm interested in booking a room at the Regal Charm Boutique Hotel for a stay between August 5th, 2025 and September 21st, 2025. "
+False," Subject: Room Reservation Inquiry at The Exquisite Retreat, Los Angeles - October 2025 to June 2026
+Dear Hotel Reservations,
+I hope this message finds you well. I am writing to inquire about availability and rates for a room booking at The Exquisite Retreat hotel in Los Angeles from October 27, 2025, to June 6, 2026. "
+True," Dear Hotel Reservations,
+
+I would like to book a room at Urban Luxe Suites in Cairo for the period of May 3rd, 2026 to June 11th, 2026. "
+False," Hey there! I'd like to make a reservation at the Marriott Hotel for a stay from December 30, 2025, to April 20, 2026."
+True," Hello! I'm looking for hotels in Tokyo. Could you please provide me with some options? Also, if possible, let me know about the availability and average rates during the period from July 1st to July 5th. Thank you!"
+True," Hey there! Could you please tell me about the hotels available in Sao Paulo from December 4, 2025 onwards?"
+True," Subject: Room Booking Request for The Velvet Key Hotel, Kolkata (December 2025 - February 2026)
+
+Hello there,
+
+I'd like to make a room reservation at The Velvet Key hotel in Kolkata. I am interested in staying from December 13, 2025, to February 18, 2026. "
+True, Hello! I'm looking for hotels in Mumbai that are currently available for booking. Could you please provide me with some options? Thank you.
+False," Hi, I'm looking to book a hotel in Cape Town. Could you please provide me with some options and their current availability?"
+True," Hi, I'm looking for hotels in Mexico City. Could you please provide me with some options for my stay?"
+False," Hello, I'd like to make a reservation for a hotel room in Mexico City for the dates of January 15, 2026, to April 27, 2026. "
+True," Can you please provide me with a list of hotels available in Delhi from March 27, 2026, to July 14, 2026? Thanks!"
+True," Are there any hotels available in Shanghai with check-in on April 6, 2026? If so, could you please provide a list of the options along with their prices and amenities?"
+False," Subject: Room Reservation at Havencrest Inn - Dates: January 16, 2026 - March 9, 2026
+Dear Havencrest Inn Reservations Team,
+I hope this message finds you well. I'm interested in booking a room for an extended stay at your hotel from January 16, 2026 to March 9, 2026."
+True," Hey there! I'm looking for hotels in Beijing, China, from January 20, 2026, to April 12, 2026. Could you please provide me with some options and their rates?"
+False," Subject: Room Booking Request - August 2025 to March 2026 in Los Angeles
+Dear Hotel Reservations,
+I hope this message finds you well. I'm interested in booking a room at your hotel in Los Angeles for a extended stay from August 1, 2025 to March 30, 2026. "
+True," Hello, I'd like to make a reservation for a stay at Hotel Excellence Artistry in Cairo from November 23, 2025, to July 29, 2026. "
+True," Can you please provide me with a list of hotels available in Kolkata, India, between January 31, 2026, and April 7, 2026? Also, kindly include the room rates for each option."
+True," Hey there, could you please provide me with a list of hotels available in Seoul from August 7, 2025, to July 23, 2026? I'm looking forward to seeing the options."
+True," Hey there! I'd like to make a reservation at the Four Seasons Hotel in Jakarta for a stay from May 3rd to May 29th, 2026."
+True,"Give me options available in Seoul, South Korea from May 7, 2026, to June 22, 2026"
+True, Hey there! I'm looking to book a hotel stay in New York. Could you please provide me with some options of available hotels in the area?
+True," Could you please provide me with a list of hotels available in Moscow from November 12, 2025 to December 15, 2025?"
+True," Can you provide me with a list of hotels available in Kolkata between November 18, 2025 and December 24, 2025?"
+True," Hi there! I'd like to make a reservation at the Four Seasons Hotel in Jakarta for a stay from March 30, 2026, to July 2, 2026."
+True," Could you please provide me with the list of hotels available for booking in Karachi from June 11, 2026, to June 24, 2026?"
+True, Hey there! I'm looking to book a hotel stay in Delhi. Could you please provide some options and their rates for the upcoming weekend?
+False," Hey there, I'm looking for hotel accommodations in Los Angeles from November 22, 2025, to July 4, 2026. Can you provide me with some options for a comfortable and convenient stay during this period?"
+True," Hi there! I'm looking to book a hotel stay in Bangkok from October 1, 2025, to November 13, 2025. Can you provide me with some options for hotels available during this period?"
+True," Subject: Room Reservation Request - Epic Estates Hotel, Bangkok (August 2025 - July 2026)
+
+Hello,
+
+I'd like to make a reservation for a stay at the Epic Estates Hotel in Bangkok. I'm looking to book a room from August 16, 2025, until July 9, 2026. "
+True," Can you provide me with a list of hotels available in Tokyo from November 24, 2025, to July 19, 2026?"
+False," Hello, I'd like to make a reservation for a stay at Urban Luxe Suites hotel in Bangkok from September 2nd, 2025 to October 5th, 2025."
+False," Hi there! I'd like to make a reservation at The Luxury Collection hotel, Keokuk, for the dates of November 25, 2025, through December 22, 2025."
+True," Are there any hotels available in New York with check-in starting from May 4, 2026?"
+False," Hey there! I'd like to make a reservation at Serenity Sands Hotel from December 27, 2025, to March 5, 2026."
+True," Hi there, I'd like to make a reservation at the Hotel Excellence Artistry in Cairo for a stay from March 1st to April 27th, 2026. "
+False," Hello, I'd like to make a reservation for a hotel stay in New York. The dates of the stay are from March 14, 2026, to April 2, 2026."
+True," Hi there! I'd like to book a room at the Crowne Plaza Hotel in Mexico City from August 30, 2025, to April 15, 2026. "
+True," Are there any hotels available in Shenzhen from August 19, 2025, onwards? If so, could you please provide some options along with their rates and amenities?"
+True," Can you provide a list of hotels in Bangkok that are available for booking from July 5, 2026, to July 9, 2026?"
+True," Subject: Room Booking Request at Elite Craft Hotel, Dhaka (November 29, 2025 - May 3, 2026)
+
+Hello,
+
+I would like to book a room at your hotel for a stay from November 29, 2025, to May 3, 2026. The property I am interested in is the Elite Craft Hotel in Dhaka."
+True," Subject: Room Reservation at Premier Boutique Stay Hotel, New York - October 2025 to February 2026
+
+Dear Hotel Reservations,
+
+I would like to make a room reservation for the period of October 2, 2025, to February 17, 2026, at your Premier Boutique Stay hotel in New York. "
+True," Could you please provide me with a list of available hotels in Shanghai from September 11, 2025, to January 19, 2026?"
+False,"If you were to create a new type of renewable energy, what would it be and how would it work?"
+False," Hi there, I'd like to make a reservation at the Whispering Dreams Hotel in Paris for a stay between April 24, 2026, and June 11, 2026."
+False," Hello, I'd like to make a reservation at the Marrow & Stone Hotel for two people, from June 14, 2026, to July 29, 2026."
+True," Hello, I'm looking to book a hotel stay in New York starting from April 26, 2026. Could you please provide a list of available accommodations within the city?"
+True," Are there any hotels available in Tokyo for booking? If so, please list some options along with their star ratings and average nightly rates."
+False," Are there any hotels available for stays starting from November 6, 2025, in Keokuk? If so, could you please provide a list with some basic details like the hotel name, star rating, and approximate price per night?"
+True," Hey there! I'm looking to book a hotel stay in Kolkata, starting from February 7, 2026. Could you please provide me with some options for accommodations?"
+True, Hi there! I'm looking for some hotels available in Shenzhen. Could you please provide me with some options for a stay? Thanks!
+False," Hi there, I'd like to make a reservation at the Pinnacle Perfection hotel in Jakarta for the dates of November 20, 2025, through December 20, 2025. "
+True,"Which hotels will be available in Dhaka from January 17, 2026?"
+True," Could you please provide me with a list of hotels available in Karachi, Pakistan, between September 12, 2025, and October 7, 2025? I'd appreciate details such as hotel name, star rating, average nightly rate, and any special offers or amenities. Thank you!"
+True," Hello, I would like to book a room at Enigma's Embrace Haven hotel in Shenzhen from May 1, 2026, to June 11, 2026. "
+True," Hello there! I'd like to make a reservation at Epic Estates Hotel in Bangkok for the period of May 22, 2026, to June 20, 2026. "
+True," Hello! I'm looking for available hotels in Shanghai from March 20, 2026, to June 13, 2026. Can you provide me with a list of options and any special offers or discounts that might be applicable during this period? Thank you!"
+False," Subject: Room Reservation Request at LegacyCraft Suites Hotel, Manila (August 25, 2025 - March 15, 2026)
+Dear LegacyCraft Suites Team,
+I would like to make a room reservation for the period between August 25, 2025, and March 15, 2026, at your esteemed hotel in Manila."
+False," Hey there! I'm looking for hotel options in Los Angeles from October 20, 2025, to March 28, 2026. Could you please provide some suggestions?"
+True," Hi, I'm looking for available hotels in Sao Paulo for a stay from May 8, 2026, to July 8, 2026. Could you please provide me with some options?"
+True," Hey there! I'd like to reserve a room at the Elite Craft Hotel in Dhaka for the period between August 28, 2025 and November 14, 2025."
+True," Hello there! I'd like to make a reservation at the Regal Charm Boutique Hotel in Bangkok. Could you please assist me in booking a room for a stay between November 8, 2025, and July 26, 2026? I look forward to your response!"
+False," Hello, I'd like to make a reservation for a hotel room in Manila from February 12, 2026, to July 5, 2026."
+True," Hello! I'm looking for hotels available in Sao Paulo from September 30, 2025, to October 29, 2025. Could you please provide some options for me? Thanks!"
+True," Can you provide me with a list of hotels available in Guangzhou, China from March 19 to April 2, 2026? Thank you."
+True," Hey there! I'm looking for hotel options in New York City from July 4, 2026, to July 22, 2026. Could you please provide a list of available hotels along with their rates during that period?"
+True," Hey there! I'm looking to book a hotel stay in Guangzhou from September 11, 2025, onwards. Could you please provide me with some options for accommodations that are available during that period?"
+True," Hello! I'm looking to book a hotel in Mexico City. Could you please provide me with some options, including the name of the hotel, star rating, and approximate price per night? Thank you!"
+True," Subject: Room Reservation Request at Solara Retreat Hotel, Cairo
+
+Hello there!
+
+I'd like to make a room reservation for the Solara Retreat hotel in Cairo. Specifically, I need a room from October 28, 2025, through January 13, 2026."
+False," Hi there! I'd like to make a reservation for a room at Serenity Sands Hotel in Bangkok from December 16, 2025, to May 2, 2026."
+False," Hello! I'm looking for hotels in Paris. Could you please provide a list of options? Also, it would be great if you could share some details such as star rating, amenities, and location for each hotel. Thank you!"
+False," Hey there! I'm looking for hotel availability on July 4, 2026, in Keokuk. Can you provide a list of accommodations that are available for one night stay?"
+True, Hello there! I'm looking for hotels available in New York. Could you please provide some options with their rates and amenities? Thank you.
+False," Hello, I'd like to book a room at LegacyCraft Suites in Cape Town for my upcoming visit."
+False," Subject: Room Reservation Request - The Luxury Collection Hotel, Sao Paulo
+Dear Hotel Reservations,
+
+I would like to make a reservation for a stay at your prestigious establishment, The Luxury Collection Hotel in Sao Paulo. I am interested in booking a room from February 22nd, 2026 to May 14th, 2026."
+False, What is the significance of the Great Barrier Reef in terms of biodiversity and its potential impact on climate change?
+True," Hey there! Could you please provide me with a list of hotels available in Jakarta from June 25, 2026, to July 6, 2026?"
+False," Subject: Room Booking Request - Majestic Moments Hotel, Bangkok (Dec 12-17, 2025)
+Dear Hotel Reservations,
+I am interested in booking a room at the Majestic Moments Hotel in Bangkok for the period of December 12 to December 17, 2025. "
+False," Subject: Room Booking Request - Elite Escapes Oasis Hotel, Guangzhou (July 23-29, 2026)
+Dear Reservations Team,
+I am reaching out to inquire about availability for a room booking at the Elite Escapes Oasis Hotel, located in Guangzhou. I would like to reserve a room from July 23rd to July 29th, 2026."
+False," Hello, I'd like to make a reservation for a room at Havencrest Inn in Karachi from March 22, 2026, to May 23, 2026."
+True," Can you provide a list of hotels available for booking in Dhaka, Bangladesh from June 26, 2026 to July 16, 2026?"
+False," Are there any hotels available in Paris with check-in dates from February 19, 2026? Please provide options if available."
+True," Hello there! I'd like to make a reservation at the Hilton Hotel, Manila for a stay between May 17, 2026 and June 26, 2026."
+True," Hi there! I'd like to book a room at Enigma's Embrace Haven hotel in Shenzhen for the period between November 28, 2025, and May 8, 2026."
+False," Are there any hotels currently available in Los Angeles for booking? If so, could you please provide me with some options and their prices?"
+True," Subject: Hotel Room Reservation - Majestic Urban Boutique Hotel, Mexico City (February 3, 2025 - April 27, 2026)
+Dear Hotel Reservations,
+
+I would like to make a room reservation for 139 nights from February 3, 2025, to April 27, 2026, at the Majestic Urban Boutique Hotel in Mexico City. "
+False," Hi there! I'm looking to book a stay at the Hilton Hotel in Tokyo from March 25, 2026, to May 29, 2026."
+True," Could you please provide me with a list of hotels available in New York from July 22, 2026, onwards?"
+False," Hello, I'd like to reserve a room at the Keokuk Plaza Hotel in Keokuk from June 27, 2026, to July 15, 2026."
+False," Subject: Hotel Room Reservation Request - The Heritage Corner, Tokyo
+Dear Hotel Reservations,
+I am writing to inquire about room availability at your esteemed establishment, The Heritage Corner, in Tokyo. I would like to book a room for a duration of approximately 6 months, starting from October 22, 2025, and ending on May 28, 2026."
+True," Subject: Room Reservation Request - April 2026 at Prime Prestige Studio, Mexico City
+Dear Hotel Reservations,
+I hope this message finds you well. I am interested in booking a room at your esteemed hotel, Prime Prestige Studio, in Mexico City, from Monday, April 11th, 2026, to Sunday, April 29th, 2026."
+False," Subject: Room Reservation Inquiry at Urban Luxe Suites, Delhi
+Dear Hotel Reservations,
+I am writing to inquire about a room booking for the following dates:
+- Check-in: January 8, 2026
+- Check-out: March 12, 2026
+Please let me know if there are any available rooms at Urban Luxe Suites in Delhi for this duration and kindly provide rates and any additional information regarding the booking process."
+True," Can you provide a list of hotels available for booking in Mexico City from October 19, 2025, to April 26, 2026?"
+True," Hi there! I'd like to make a reservation at The St. Regis Delhi for a stay from March 11, 2026, to April 19, 2026. "
+True," Hello, I'd like to make a reservation at the Pinnacle Perfection hotel in New York for the period of June 7, 2026 to July 15, 2026."
+True," Hey there! I'd like to make a reservation at the Hilton Hotel in Manila for the period of January 24, 2026, through May 8, 2026."
+True," Subject: Room Reservation Request at Majestic Moments Hotel, Shenzhen
+
+Dear Majestic Moments Hotel,
+
+I am interested in booking a room at your hotel located in Shenzhen for the following dates: April 12, 2026 to April 26, 2026. "
+True," Subject: Room Reservation at Four Seasons Hotel, Jakarta - July 2026
+
+Hello,
+
+I would like to make a reservation for a stay at the Four Seasons Hotel in Jakarta. The desired dates are from July 3, 2026, to July 31, 2026. "
+True," Hey there, I'm looking to book a hotel stay in Guangzhou, China, from February 28, 2026, to July 27, 2026. Can you please provide me with some hotel options that are available during this period?"
+False," Inquiry: What are the available hotels in Paris with check-in date on or after October 23, 2025?"
+False," Hello, I'd like to make a reservation at Enigma's Embrace Haven Hotel in Jakarta for a stay between June 4, 2026, and July 8, 2026."
+True," Hey there, I'm looking to book a room in a hotel located in Shenzhen for a stay between October 22, 2025, and March 25, 2026. "
+False," Hi there, I'd like to make a reservation at Urban Luxe Suites from July 6, 2026, to July 11, 2026. "
+False," Hello, I'd like to book a room at Emberline Hotel in Dhaka for a stay from December 29, 2025, to April 27, 2026."
+True," Hey there! Could you please provide me with a list of hotels available for stays starting from November 2, 2025, in Shenzhen?"
+False," Hello, I'd like to reserve a room at the Opulent Overlook Hotel in Dhaka for the period of February 1, 2026, to July 21, 2026."
+False," Can you provide me with a list of hotels available for stay in Keokuk, Iowa, between November 21, 2025, and January 16, 2026?"
+True," Hey there! I'd like to make a reservation for a room at the Hilton Hotel in Manila from October 6, 2025, to November 7, 2025. "
+False," Subject: Room Booking Request - Enigma's Embrace Haven Hotel, Seoul (August 27, 2025 - May 3, 2026)
+Dear Enigma's Embrace Haven Hotel,
+I am interested in booking a room at your hotel located in Seoul for the period of August 27, 2025 to May 3, 2026. "
+False, Hey there! I'm looking to book a hotel stay in Keokuk. Could you please provide some options for hotels available in the area?
+False," Hi there! I'd like to make a reservation at The Velvet Key Hotel, Manila for the dates of March 8th to March 20th, 2026."
+False," Could you please provide a list of hotels available for stays starting from November 16, 2025, in Keokuk? Thank you!"
+True," Could you please provide me with a list of available hotels in Mexico City between December 7, 2025, and December 13, 2025? I'm interested in knowing the room rates for each option as well. Thank you!"
+False," Hey there, I'm looking to book a room at the Whispering Dreams hotel for a stay from June 16, 2026, to July 11, 2026."
+True," Hello, I'd like to make a reservation for a stay at Serenity Sands hotel in Dhaka. I'm interested in booking a room from January 3, 2026, until July 27, 2026. "
+False," Subject: Room Reservation Request at Masterpiece Manor, Beijing (September 7, 2025 - June 6, 2026)
+Dear Hotel Booking Team,
+
+I hope this message finds you well. I'm reaching out to request a room booking for my stay at Masterpiece Manor, Beijing from September 7, 2025, to June 6, 2026."
+True, Are there any hotels available in Karachi that you can suggest for my stay? I'm looking for a comfortable and affordable option.
+False," Subject: Room Reservation Request for Artisan Hotel Collective, Mumbai (October 2025 - February 2026)
+Dear Artisan Hotel Collective,
+I am interested in booking a room at your property in Mumbai from October 2, 2025, to February 4, 2026."
+False," Hello, I'd like to book a room at The St. Regis Hotel in Karachi."
+False, What is the significance of the Great Barrier Reef for marine biodiversity and its potential impact on climate change?
+True," What are hotel options in Cairo for your stay from May 3rd to May 4th, 2026?"
+False," Hello, I'd like to make a reservation for a room at Emberline Hotel in Moscow from February 21, 2026, to March 12, 2026."
+True," Hey there! I'm looking to book a hotel stay in Jakarta from October 27, 2025, to November 26, 2025. Could you please provide me with some options for hotels available during that period?"
+True," Hello, I'm looking for hotels in Delhi available between October 15, 2025, and March 19, 2026. Could you please provide me with some options?"
+False," Hey there! I'm interested in booking a room at the Hilton Hotel, Cape Town, for a stay from November 21, 2025, to March 8, 2026."
+True," Can you help me find hotels in Tokyo, Japan available between May 29, 2026 and June 10, 2026?"
+True," Could you please provide a list of hotels available in Shanghai for the duration from January 23, 2026 to May 21, 2026?"
+False," Hello there! I'm interested in booking a stay at the Artisan Hotel Collective in Dhaka for the period of January 7, 2026 to February 12, 2026. "
+True, Hi there! Could you please tell me some hotel options available in Sao Paulo?
+True," Hey there! I'm looking for hotel options in Cairo from October 9, 2025, to October 17, 2025. Could you please provide a list of available accommodations?"
+True," Hello, I'd like to make a reservation for a room at the Masterpiece Manor Hotel in Moscow. The stay period is from May 17, 2026, to July 18, 2026."
+True," Could you please provide me with a list of hotels available in Mumbai between February 9, 2026, and April 3, 2026? I'm looking for any options that may be suitable for a stay."
+False," Hello, I'd like to make a reservation at the Hilton Hotel in Tokyo from October 10, 2025, to December 15, 2025. "
+False," Hello, I'd like to make a reservation for a room at the Hilton Hotel in Tokyo please. "
+True," Hey there! Could you please help me find hotels available in New York from September 20, 2025, to October 17, 2025?"
+True," Can you provide me with a list of hotels available for stay in Moscow, Russia from August 14, 2025, to May 5, 2026? Please include details such as the hotel name, star rating, and average nightly rate."
+True," Subject: Room Reservation Request at Regal Charm Boutique Hotel, Bangkok
+
+Dear Hotel Reservations,
+
+I would like to book a room at your esteemed Regal Charm Boutique Hotel in Bangkok from January 23, 2026, to January 28, 2026. "
+False," Dear Signature Boutique Hotel,
+I am interested in booking a room for my stay from September 2, 2025, to March 29, 2026, at your property located in Guangzhou. "
+False," Hey there! I'm interested in booking a stay at the Majestic Urban Boutique Hotel in Mumbai from August 8, 2025, to February 5, 2026."
+True," I'd like to make a reservation for a room at Sheraton Hotel, Seoul, from February 19, 2026, to July 9, 2026. "
+True," Hi there, I'm looking to book a hotel stay in Guangzhou from September 19, 2025 onwards. Could you please provide me with some options for hotels that are currently available during this period?"
+True," Inquiry: Could you please provide me with a list of hotels available in Dhaka, Bangladesh, starting from July 1, 2026? Thank you."
+True," Could you please provide me with a list of hotels available for booking in New York City, from September 27, 2025, through October 24, 2025?"
+False,"If you were given the opportunity to invent a new type of renewable energy, what form would it take and why?"
+True," Hey there! I'm looking for hotels available in Bangkok, Thailand, from April 9 to May 5, 2026. Could you please provide some options along with their rates and amenities?"
+False," Could you please provide a list of hotels available for booking in Keokuk, Iowa, from May 16, 2026, to May 24, 2026? I'm looking forward to your recommendations."
+True," Hi there! I'm looking for hotels available in Tokyo for my next trip. Could you please provide some options with their ratings and average nightly rates? Also, let me know if any of them offer breakfast or Wi-Fi services. Thanks!"
+False," Hi there, I'd like to make a reservation at the Hilton Hotel for the period of October 2nd to November 11th, 2025."
+False," Can you provide a list of hotels available in Cape Town, South Africa from April 23, 2026 to June 12, 2026? Also, please include the room rates and any special offers or discounts that might be applicable. Thank you!"
+True," Hello! I'm looking for hotels available in Beijing, could you please provide some options with their respective rates and amenities? Thank you!"
+True," Subject: Room Reservation Request - Hyatt Hotel, Shanghai, July 30, 2026
+
+Dear Hyatt Hotels,
+
+I would like to make a room reservation for one night at your Shanghai location on July 30, 2026."
+True, Hey there! I'm looking for some hotels in Manila. Can you please provide me with a list of options and their rates for the upcoming week? Thanks!
+True," Hi there! I'd like to make a reservation for a room at Havencrest Inn, New York, from December 4, 2025, to April 2, 2026."
+True," Subject: Room Booking Request - The Gilded Harbor Hotel, Dhaka (August 2025 - May 2026)
+Hello there,
+
+I'm looking to book a room at The Gilded Harbor hotel in Dhaka for a long-term stay from August 15, 2025, to May 29, 2026. "
+False," Subject: Room Reservation Request for July 27, 2026 at The Heritage Corner Hotel, Jakarta
+Dear Hotel Reservations,
+I would like to make a reservation for one night stay on July 27, 2026, at The Heritage Corner Hotel, Jakarta. "
+True," Hello, I'd like to make a reservation at Serenity Sands Hotel in Dhaka. I need a room for the duration from October 6, 2025, to January 19, 2026. "
+True," Hey there! I'm looking to book a hotel stay in Cairo starting from November 6, 2025. Can you please provide me with some options for accommodations available during that period?"
+True," Hi there! I'd like to make a reservation for a stay at the Regal Charm Boutique Hotel in Bangkok from June 25, 2026 to July 31, 2026. "
+False,What are some effective strategies for improving productivity in remote work environments?
+True," Could you please provide me with a list of hotels available in Shanghai from October 10, 2025, to October 14, 2025?"
+False," Are there any hotels available in Paris from January 15, 2026? If so, could you please provide some options along with their prices and amenities?"
+True," Can you provide me with a list of available hotels in Seoul from December 8, 2025, to June 12, 2026?"
+True," Hello, I'm looking for hotels available in Mumbai for stays between June 14, 2026, and June 15, 2026. Could you please provide some options for me? Thank you!"
+False," Hello, I'd like to make a reservation at Epic Estates hotel in Moscow. I need a room for 16 days starting from July 5, 2026, and ending on July 21, 2026."
+False," Could you please provide me with a list of hotels available in Cape Town, South Africa from February 19, 2026, to March 9, 2026? Also, kindly include any special offers or discounts for this duration."
+False,What are some of the key factors to consider when choosing a location for a new technology startup?
+True," Hello, I'd like to make a reservation for a room at LegacyCraft Suites hotel in Shenzhen. I need a room for the period from September 10, 2025, to February 9, 2026. "
+True," Hello there! I'd like to make a reservation for a stay at the Crowne Plaza hotel in Mexico City. Could you please help me book a room from December 4, 2025, to December 13, 2025? I'm looking forward to hearing back from you soon!"
+True," Hey there! I'm looking to book a stay at the Hilton Hotel in Manila for the period of July 11 to July 30, 2026. "
+True," Are there any hotels available in Beijing with check-in on or after May 18, 2026? If so, could you please provide a list with some basic details like hotel name, star rating, and average nightly rate?"
+False," Hi there! I'd like to book a room at The Ritz-Carlton hotel in Los Angeles for the period from January 23, 2026, to July 24, 2026."
+False," Subject: Room Reservation at The Heritage Corner Hotel, Cape Town
+Dear Hotel Reservations,
+I would like to make a room booking at your esteemed establishment, The Heritage Corner hotel in Cape Town. I am interested in a stay from November 9, 2025, until May 6, 2026. "
+False," Hello, I'd like to make a reservation at the Supreme Solitude hotel in Cairo for a stay from July 2nd to July 6th, 2026."
+True," Hi there! I'd like to make a reservation for a room at the Prime Prestige Studio hotel in Mexico City, from August 5th, 2025, to April 24th, 2026."
+False," Hi there, I'd like to reserve a room at Elite Craft Hotel from January 17, 2026, to April 10, 2026. "
+True," Hey there! I'm looking for hotels available in Kolkata between July 24 and 26, 2026. Could you please provide a list of options along with the room rates?"
+True," Subject: Room Reservation at Premier Boutique Stay, New York
+Dear Hotel Reservations,
+I would like to book a room at your prestigious Premier Boutique Stay hotel in New York from May 9, 2026, to June 12, 2026. "
+False," Hello, I'd like to make a reservation for a room at the Serenity Sands Hotel in Shenzhen, please. "
+True," Hi there! I'm interested in booking a stay at the InterContinental hotel in Sao Paulo from February 21, 2026 to March 22, 2026. "
+True," Could you please provide a list of hotels available for check-in on November 6, 2025, in New York City?"
+False," Hello, I'd like to reserve a room at your hotel in Los Angeles from October 26, 2025, to December 9, 2025. "
+True," Are there any hotels available in Beijing with check-in on or after February 24, 2026? If so, could you please provide some options along with their rates and amenities?"
+True, Hi there! Can you provide me with a list of hotels currently available in Delhi? I'm looking for accommodations for the next few days.
+True," Hello, I'm looking for hotels in Jakarta, Indonesia, for a stay from October 31, 2025, to May 6, 2026. Could you please provide some options and their rates? Thank you!"
+False," Hey there! I'm interested in booking a room at the CityView Boutique Hotel for a stay from January 5, 2026, to April 21, 2026. "
+True," Hi there! I'm looking to book a hotel stay in Shanghai. Could you please provide me with some options, their rates, and any notable amenities they offer?"
+True," Hi there! I'm looking to book a hotel stay in Bangkok from November 27, 2025, onwards. Could you please provide me with some options for accommodation in that time frame?"
+False," Subject: Room Reservation Inquiry at Whispering Dreams Hotel, Shanghai
+Dear Whispering Dreams Hotel Team,
+I hope this message finds you well. I am interested in booking a room at your esteemed hotel from December 5, 2025, to March 27, 2026. 
+I look forward to hearing from you soon regarding my request."
+False," Hey there! I'd like to make a reservation at the Marriott Hotel from June 14, 2026, to June 17, 2026. "
+True," Can you provide a list of hotels available in Bangkok from January 19, 2026? Please include details such as star rating, amenities, and average nightly rates."
+True," Subject: Room Reservation Request at The Luxury Collection Hotel, Guangzhou
+Dear Hotel Reservations,
+I would like to book a room at The Luxury Collection hotel in Guangzhou for the following dates: August 12, 2025 - April 18, 2026."
+False," Hello, I'd like to make a reservation for a hotel room in Seoul from November 2nd, 2025, to July 17th, 2026. "
+False," Hey there! I'd like to make a reservation at The Velvet Key hotel in Paris for a stay between January 23, 2026, and April 10, 2026."
+True, Hey there! I'd like to make a reservation for a room at the InterContinental hotel in Sao Paulo. 
+False," Hello, I'd like to make a reservation at the Elite Escapes Oasis hotel for a stay between March 16, 2026, and June 5, 2026."
+True," Can you please provide a list of hotels available for booking in Kolkata from March 20, 2026 to June 28, 2026?"
+True," Hello! I'm looking for hotels in Shanghai for my upcoming trip. Could you please provide a list of available options? Also, if you have any recommendations based on good ratings and amenities, that would be great."
+False," Hello, I'd like to make a reservation for a room at the InterContinental Hotel in Manila from November 11, 2025, to February 4, 2026."
+False," Could you please provide me with a list of available hotels in Cape Town from June 21, 2026, to July 25, 2026? Also, could you check if there are any special offers or discounts for these dates? Thank you."
+True," Hello there! I'd like to make a reservation please. Could you help me book a room at the Elite Escapes Oasis hotel in Kolkata for a stay from August 17, 2025, to November 1, 2025? I look forward to hearing from you soon. Thank you!"
+True," Can you provide me with a list of hotels available in Shanghai between April 30, 2026 and May 5, 2026?"
+True, Hey there! Could you please provide me with a list of hotels available in Shanghai?
+False," Subject: Room Reservation Request - Emberline Hotel (May 29 - June 2, 2026)
+Dear Hotel Reservations,
+I am writing to inquire about availability for a room at the Emberline Hotel from May 29, 2026, through June 2, 2026. "
+False," Can you please provide a list of hotels available for stay in Cape Town, South Africa, from November 21, 2025, to January 5, 2026?"
+False," Hi, I'd like to make a reservation for a hotel room in Kolkata from September 25, 2025, to March 26, 2026."
+False," Hey there! I'd like to make a reservation for a stay at the Masterpiece Manor hotel in New York. I need a room from May 31, 2026, to June 6, 2026."
+True," Subject: Room Reservation Request - The Luxury Collection Hotel, Guangzhou (February 4th to June 4th, 2026)
+
+Dear Reservations Team,
+
+I hope this message finds you well. I am interested in booking a stay at the luxurious and renowned hotel, The Luxury Collection Hotel, Guangzhou. I would like to request a room reservation for the following period: February 4th, 2026, to June 4th, 2026."
+False," Hello, I'd like to make a reservation at the Majestic Urban Boutique Hotel in Cape Town for the period of October 26, 2025, to May 28, 2026."
+False," Subject: Room Reservation at Supreme Solitude Hotel, Sao Paulo (January 10 - May 3, 2026)
+Dear Hotel Reservations,
+I would like to book a room for my stay at the Supreme Solitude hotel in Sao Paulo from January 10th to May 3rd, 2026. I'm looking forward to your confirmation and details regarding the booking."
+False," Can you provide a list of available hotels in Cape Town, South Africa, for the dates from April 7, 2026, to May 25, 2026?"
+False," I'd like to reserve a room at the Elite Craft Hotel in Manila for the period between August 18, 2025, and June 22, 2026. "
+False,"Hey there! I'm looking to book a hotel room in beautiful Cape Town. Can you provide me with some options for stays between December 16, 2025, and April 13, 2026?"
+False," Hi, I'd like to book a room at a hotel in Cairo for the period between May 22, 2026, and July 27, 2026. "
+False," Subject: Room Reservation at Opulent Overlook Hotel, Sao Paulo (August 14 - October 20, 2025)
+Hello,
+I would like to make a room reservation for two guests at your beautiful Opulent Overlook hotel in Sao Paulo from August 14, 2025, to October 20, 2025. I'm looking forward to staying with you during my visit to Brazil!"
+False," Hello, I'd like to make a reservation at the Elite Escapes Oasis hotel in Sao Paulo for a stay from April 6th, 2026 to June 5th, 2026."
+True," Could you please provide me with a list of hotels available in New York between February 27, 2026, and June 17, 2026? I'd appreciate knowing the hotel name, star rating, and average nightly rate. If possible, also include any special offers or amenities. Thank you!"
+False," Hello, I'd like to book a room at the Funny Inn Hotel in Paris for two adults"
+False," Subject: Room Booking Request for Masterpiece Manor Hotel, Kolkata (April 23 - May 28, 2026)
+Hello,
+I would like to make a reservation at your esteemed hotel for my stay from April 23 to May 28, 2026. Specifically, I'm interested in staying at Masterpiece Manor in Kolkata."
+False," Hi there, I'd like to make a reservation for three nights at the Hyatt Hotel. The check-in date is June 12, 2026, and check-out date is June 15, 2026. "
+False," Hello! I'd like to make a reservation at Whispering Dreams hotel in Manila for the period of March 27, 2026, to June 6, 2026."
+False, Hey there! I'd like to make a reservation at the Marriott Hotel in Cape Town.
+False," Subject: Hotel Room Booking Request for Enigma's Embrace Haven, Shanghai
+Dear Reservations Team,
+I would like to make a room reservation at your esteemed hotel, Enigma's Embrace Haven in Shanghai, for the following dates: January 10, 2026 - January 21, 2026."
+False, Could you please provide me with a list of hotels available in Los Angeles?
+True,"Which hotels are available in Mumbai, India from April 4, 2026 to July 8, 2026?"
+False,"If you could travel back in time, what historical event would you like to witness firsthand and why? And how would that experience change your perspective on history and humanity?"
+False," Subject: Hotel Room Booking for Shanghai Stay, February 2026
+Dear Hotel Reservation Team,
+I am reaching out to book a room at your hotel in Shanghai from December 13, 2025, to April 4, 2026. "
+False," Hi there, I'd like to make a reservation for a hotel room in Karachi, Pakistan from May 12, 2026, to June 8, 2026. "
+True, Hey there! Could you please provide a list of hotels available in Jakarta? I'm specifically looking for options with good ratings and reasonable prices.
+False," Hi there! I'm looking for available hotels in Cape Town, South Africa from March 31, 2026 to May 11, 2026. Could you please provide me with some options and rates for this duration?"
+True," Hi there! I'm looking for hotel options in Bangkok from March 8, 2026, to April 7, 2026. Could you please provide a list of hotels along with their rates and amenities during this period?"
+True," Can you please provide me with a list of hotels available for booking in Manila from July 18, 2026, to July 26, 2026? I'd appreciate it if you could also include the room rates and any special offers or amenities."
+True, Are there any hotels available in Tokyo that you could recommend for my stay?
+False," Subject: Room Reservation at Supreme Solitude Hotel, Beijing
+Dear Hotel Reservations,
+I am writing to inquire about a room reservation at your esteemed establishment, the Supreme Solitude Hotel in Beijing. I would like to make a request for a stay from April 22, 2026, to July 12, 2026. "
+True," Inquiry: Are there any hotels available in Jakarta, Indonesia with check-in on November 7, 2025? If so, could you please provide a list of options along with their respective ratings and average prices per night?"
+True," Could you please provide me with a list of hotels available in Jakarta from February 10, 2026, to June 17, 2026? Also, if possible, could you provide their respective rates for those dates?"
+False," Subject: Room Reservation Inquiry - Supreme Solitude Hotel, Jakarta
+Dear Hotel Reservations,
+I am interested in booking a room at your esteemed establishment, the Supreme Solitude hotel, for an upcoming stay. The dates I require are from 2025-12-22 to 2026-01-03. "
+True," Hey there! I'm looking for hotels available in Shanghai starting from April 12, 2026. Can you provide a list of options with their respective ratings and average nightly rates?"
+True," Hello, I'd like to make a reservation for a room at Crafting Comfort Legacy hotel in Karachi. I'm interested in staying from July 7, 2026, to July 29, 2026. "
+True," Could you please provide me with a list of hotels available in Kolkata from October 2, 2025, to November 13, 2025? Also, could you share the room rates for each hotel during that period? Thank you."
+True," Hi there! I'm looking for hotel options in Beijing, China, for a stay between December 20, 2025, and May 19, 2026. Could you please provide me with some suggestions?"
+False," Hi, I'd like to make a reservation for a hotel room in Paris from April 25, 2026, to June 4, 2026. "
+True," Hello, I'm looking for hotel availability in Mumbai, India from July 16 to July 21, 2026. Could you please provide some options with their respective rates and amenities?"
+False,"What are some innovative solutions currently being developed to address the global problem of food waste? Can you provide examples of organizations or initiatives that are making a significant impact in this area, and what technologies or strategies are they using to reduce food waste at various stages of the supply chain?"
+True," Hi there! I'd like to make a reservation at the Marriott Hotel in Mumbai for the period between August 1st, 2025, and October 31st, 2025."
+True," Hello, I'd like to make a reservation at Whispering Dreams hotel in Moscow for the period from December 6, 2025, to January 22, 2026. "
+True,"Hi! I'm looking to book a hotel stay in Mexico City. Are there any hotels available for check-in on September 25, 2025? Let me know some options with their ratings and prices if you can. Thank you!"
+True, Hi there! Are there any hotels currently available in Tokyo that you could recommend for my stay?
+False," Hello, I'd like to make a reservation for a room at the Perfect Bliss Hotel in Seoul for the period of June 1st to 28th, 2026."
+True," Hello, I'd like to make a reservation at Hotel Excellence Artistry in Cairo for the period of November 15, 2025, to January 30, 2026."
+True," Subject: Room Reservation at Masterpiece Manor Hotel, Moscow
+Dear Booking Team,
+I would like to make a reservation for a stay at your esteemed establishment, Masterpiece Manor Hotel in Moscow. I am looking to book a room from January 26th, 2026, to February 5th, 2026."
+False," Hello, I'd like to make a reservation at the Regal Charm Boutique Hotel in Los Angeles for a stay from June 1st, 2026 to June 21st, 2026. "
+True," Hey there! I'm looking for available hotels in Delhi between November 1, 2025, and April 14, 2026. Could you please provide a list of options with their rates and amenities?"
+True," Hey there! I'm looking for hotels in Bangkok. Could you please provide a list of options along with their prices, amenities, and guest ratings?"
+False, Hi there! I'd like to make a reservation at LegacyCraft Suites in Cape Town. 
+False," Subject: Hotel Room Reservation Request - The Heritage Corner Hotel, LA (November 30, 2025 - June 6, 2026)
+Dear The Heritage Corner Hotel,
+I hope this message finds you well. I am writing to inquire about room availability for a stay at your esteemed hotel in Los Angeles from November 30, 2025, through June 6, 2026."
+False," Hello, I'd like to make a reservation for a hotel room in Mumbai from November 3, 2025, to May 20, 2026. "
+False," Hello! I'm looking for a hotel in Paris, France for one night stay on June 26, 2026. Could you please provide me with some options and their rates? Thanks!"
+True," Hey there! I'm looking for hotel options in Mexico City from March 1st, 2026, to April 22nd, 2026. Can you please provide a list of available accommodations with their rates and any special offers during that period?"
+False," Subject: Hotel Room Booking Request - Perfect Bliss, Kolkata (October 2025 - March 2026)
+Hello,
+I am interested in booking a room at the Perfect Bliss hotel in Kolkata for an extended stay from October 29, 2025, to March 14, 2026. "
+False," Hi there! I'd like to make a reservation at The Heritage Corner Hotel in Dhaka for the period between February 22, 2026, and April 21, 2026. "
+False,"If you could travel back in time, what historical event or period would you most like to witness and why?"
+True," Could you please provide a list of hotels available for booking in Cairo from July 14, 2026, to July 18, 2026?"
+True," Hi, I'm looking for hotels available in Jakarta from October 27, 2025, to April 11, 2026. Could you please provide some options with details like star ratings, amenities, and price ranges?"
+True," Hey there! I'd like to make a reservation at the Opulent Overlook hotel in Beijing for the dates between August 25, 2025, and September 11, 2025. Could you please provide me with the availability and rates for standard rooms during this period?"
+False,"If you could travel anywhere in the world right now, where would you go and why? Would you choose a bustling city like Tokyo or Paris, or perhaps a peaceful destination like Bali or Santorini? What experiences or sights would you most want to see or do there? Let's imagine for a moment that COVID-19 restrictions don't apply and travel is completely safe!"
+True," Can you provide a list of hotels available for stay in Bangkok from August 26, 2025, to September 17, 2025?"
+False," Hey there! I'd like to reserve a room at Funny Inn Hotel in Tokyo from June 3rd, 2026 to July 28th, 2026. "
+False," Subject: Hotel Room Reservation - Crowne Plaza Sao Paulo, May 13 to July 12, 2026
+Dear Crowne Plaza Team,
+I would like to make a hotel room reservation for your establishment in Sao Paulo, Brazil from May 13 to July 12, 2026. I am looking forward to receiving a confirmation and further details about my stay."
+False," Hi there! I'm looking to book a hotel stay in Paris, starting from September 5th, 2025. Could you please provide me with some options and their prices for this date range?"
+True," Hey there! Can you help me find hotels available for stay in Mexico City, from August 27, 2025, to March 5, 2026?"
+False," Hi there! I'd like to book a room at the Perfect Bliss hotel in Cape Town from March 23, 2026, to April 20, 2026."
+True," Hi, I'm looking for available hotels in New York City from February 6, 2026, to June 1, 2026. Can you provide some options for me please?"
+True," Inquiry: Are there any hotels available for a stay from October 26, 2025 onwards in Beijing? If so, could you please provide some options along with their prices and amenities?"
+True," Can you provide me with a list of hotels available for booking in Mumbai between April 1, 2026, and April 30, 2026?"
+True, Hey there! Could you please help me find some hotel options in Sao Paulo? I'm looking for accommodations with good reviews and reasonable prices.
+True,"Give me some hotels available in Bangkok from January 4, 2026"
+True," Subject: Hotel Room Reservation at Masterpiece Manor, Moscow (2025-12-30 - 2026-03-19)
+
+Hello,
+
+I would like to make a room reservation for the Masterpiece Manor hotel in Moscow from December 30, 2025, to March 19, 2026. "
+True," Hi there! I'm looking for hotels in Seoul, South Korea. Could you please provide me with some options along with their availability and prices?"
+False,"If you were given the opportunity to learn any skill instantly, what would it be and why?"
+True," Subject: Room Reservation Request at The Luxury Collection Hotel, Guangzhou (September 2025 - July 2026)
+
+Dear Hotel Reservations Team,
+
+I hope this message finds you well. I am reaching out to inquire about room availability for a long stay at your prestigious property, The Luxury Collection Hotel in Guangzhou, from September 22, 2025, through July 11, 2026."
+True," Could you please provide me with the list of hotels available in Seoul from April 3, 2026?"
+False, What are some of the most innovative solutions currently being developed in the field of renewable energy for residential use?
+True," Hi there! I'd like to make a reservation at the Crafting Comfort Legacy Hotel in Karachi from March 3, 2026, to March 20, 2026. Could you please confirm availability and provide me with room rates for that period?"
+True," Could you please provide a list of hotels available in Kolkata between May 11, 2026, and June 10, 2026? I'm interested in knowing the room rates and amenities for each option."
+False," Hello there, I'd like to make a reservation for three consecutive months starting from March 18, 2026, until June 7, 2026, at Crafting Comfort Legacy hotel in Los Angeles. "
+True, Hey there! I'm looking for hotels available in Manila for a possible stay. Could you please provide me with some options and their rates for the next month?
+False," Hey there, I'd like to make a reservation for a room at the Sheraton Hotel in Los Angeles, California. I'm looking for a stay from September 27, 2025, through June 14, 2026."
+False,"What factors influence the purchasing decision of consumers when choosing a smartphone, and how do brands use these insights to market their products effectively?"
+True,"I need some options for hotels in Tokyo available from July 6, 2026"
+True," Hi there! I'm looking for hotels available in Guangzhou, could you please provide some options with their ratings and prices?"
+False," Subject: Room Reservation Request at Enigma's Embrace Haven Hotel, Delhi
+Dear Enigma's Embrace Haven Hotel Team,
+I would like to make a room reservation for the period between February 8, 2026, and May 24, 2026, at your esteemed hotel in Delhi. I am looking forward to a comfortable stay during my visit."
+False," Hello! I'm interested in booking a room at Epic Estates Hotel, Seoul for the following dates:
+* Check-in: November 10, 2025
+* Check-out: February 23, 2026"
+False,"If you could travel back in time, what historical event would you most like to witness and why?"
+False," Hi there! I'd like to make a reservation at The Gilded Harbor hotel in Los Angeles for a stay between August 10, 2025, and May 19, 2026."
+True," Can you provide me with a list of hotels available in Delhi for stays from July 25, 2026, to July 31, 2026?"
+False," Hi there! I'd like to make a reservation at the Hilton hotel in Keokuk from July 7th, 2026, to July 22nd, 2026. "
+True," Can you please provide me with a list of hotels available in Kolkata from July 20, 2026, to July 29, 2026? Also, could you provide some details about the amenities and prices for each option?"
+False," Hello, I'd like to make a reservation at the Funny Inn hotel in Tokyo please. "
+True," Hello, I'd like to make a reservation at Premier Boutique Stay Hotel in New York for the period of February 27, 2026, to April 30, 2026. "
+True," Hello! Could you please provide a list of hotels available in Guangzhou from August 11, 2025, to September 15, 2025?"
+True," Hello, I'd like to make a reservation at Hotel Artistry Studio in Bangkok for the period of April 11, 2026, to June 17, 2026."
+False," Subject: Room Reservation Request at Crowne Plaza Hotel
+Hello,
+I am interested in booking a room at Crowne Plaza for an extended stay  from August 6th, 2025, to June 22nd, 2026."
+False," Hey there, I'd like to make a reservation at Funny Inn hotel for three nights starting on July 26, 2026 and ending on July 29, 2026. "
+True," Can you provide a list of hotels available for stay from August 23, 2025, onwards in Dhaka? Thank you."
+False," Hello, I'd like to make a reservation at the Majestic Urban Boutique Hotel for the following dates:
+- Check-in date: August 6, 2025
+- Check-out date: November 26, 2025"
+False," Hello, I'd like to reserve a room at the Epic Estates hotel in Jakarta for the period of November 8, 2025, to March 15, 2026."
+False," Subject: Hotel Room Reservation Request - Dhaka, January 30th, 2026 to May 16th, 2026
+Dear Hotel Management,
+I would like to make a room reservation at your hotel in Dhaka from the 30th of January, 2026, through the 16th of May, 2026. "
+False," Hello, I'd like to book a room at the Golden Palace Hotel in Mumbai for my upcoming trip."
+True," Subject: Room Reservation Request at Hotel Excellence Artistry, Cairo - June 13 to July 25, 2026
+Hello there! I'd like to book a room for my stay at Hotel Excellence Artistry in Cairo from June 13, 2026, to July 25, 2026."
+False," Hi there! I'd like to reserve a room at Hotel Artistry Studio in Mexico City for three nights starting from July 25, 2026, and ending on July 27, 2026. "
+True," Inquiry for hotels available in Beijing from February 16, 2026, to May 23, 2026. Please provide a list of options with rates and amenities."
+True, Hey there! Could you please provide a list of hotels available in Dhaka?
+True," Hi there! Could you please provide me with a list of hotels available in Mumbai starting from January 4, 2026?"
+False," Subject: Room Reservation at The Velvet Key Hotel, Bangkok (December 26-29, 2025)
+Dear Hotel Reservations,
+I am writing to inquire about the availability of a room at The Velvet Key Hotel, Bangkok from December 26, 2025, to December 29, 2025."
+False," Subject: Room Reservation at Enigma's Embrace Haven Hotel, Manila
+Dear Enigma's Embrace Haven Hotel Team,
+I hope this message finds you well. I am interested in booking a room at your esteemed hotel from 30th March to 24th May 2026. "
+True," Hey there! I'm looking for hotel availability in Manila, Philippines, from January 17, 2026, to April 8, 2026. Could you please provide a list of options along with their rates and amenities?"
+True," Hello, I'm looking for hotels available for stay in Jakarta from April 23, 2026, to July 30, 2026. Could you please provide a list of options along with the rates and amenities?"
+True," Subject: Hotel Room Booking - The Gilded Harbor, Dhaka (February 7, 2026 - April 1, 2026)
+Dear Hotel Reservations,
+I am writing to request a room reservation at The Gilded Harbor hotel in Dhaka for the period of February 7, 2026, to April 1, 2026."
+False," Subject: Room Reservation Request at Perfect Bliss Hotel, Keokuk
+Hello,
+I'd like to make a reservation for a room at Perfect Bliss Hotel in Keokuk from January 2nd, 2026, to January 28th, 2026."
+False," Hello, I'd like to make a reservation for a room at the Hyatt hotel in Manila from June 18, 2026, to July 25, 2026."
+True," Hello, I'd like to make a reservation at The Velvet Key hotel in Kolkata. I need a room for a stay from December 1, 2025, to April 18, 2026. "
+False," Subject: Room Reservation at Whispering Dreams Hotel, Cape Town
+Hello,
+I would like to make a room reservation for the Whispering Dreams hotel in Cape Town. The desired stay dates are from December 26, 2025, to July 11, 2026. "
+False, Hey there! Could you please provide me with a list of hotels available in Keokuk?
+False," Subject: Hotel Room Booking Request - Crafting Comfort Legacy, New York (Mar 30 - Apr 03, 2026)
+Dear Reservation Team,
+I'd like to make a reservation for a stay at your esteemed hotel, Crafting Comfort Legacy, in New York City. I am interested in booking a room from March 30th to April 3rd, 2026. 
+Looking forward to hearing back from you soon!"
+True," Hello, I'd like to make a reservation at Hotel Excellence Artistry in Cairo for the period of February 22, 2026, to May 18, 2026."
+False," Could you please provide me with a list of hotels available in Los Angeles, California from April 21, 2026, to July 15, 2026? I'd appreciate options along with their rates and any special offers or amenities they might have. Thank you!"
+False," Hello, I'd like to reserve a room in a hotel in Paris from February 26, 2026, to June 8, 2026."
+False," Hello, I'd like to make a reservation at The Ritz-Carlton in Keokuk for the period of May 20, 2026, to June 9, 2026."
+False," Are there any hotels available in Keokuk, starting from August 26, 2025? If so, could you please provide a list with the room rates and amenities for each one?"
+False," Subject: Room Reservation at Perfect Bliss Hotel, Manila (September 27, 2025 - January 27, 2026)
+Hello,
+I would like to make a reservation for a room at your Perfect Bliss hotel in Manila. I'm looking for a stay from September 27, 2025, to January 27, 2026. "
+True, Hello there! I'm looking for hotels in Delhi. Could you please provide me with some options? Thank you.
+True," Subject: Room Reservation Request at Solara Retreat Hotel, Cairo (March 9 - June 9, 2026)
+Dear Solara Retreat Hotel Team,
+I hope this message finds you well. I am reaching out to book a room at your hotel from March 9 to June 9, 2026."
+True, Hello there! I'm looking for hotels in Manila. Can you provide some options for me? Thanks!
+False," Hey there, I'd like to make a reservation at Epic Estates hotel for the dates of December 3, 2025, through December 10, 2025."
+False," Hi there! I'd like to make a reservation at Urban Luxe Suites in Jakarta for the period between November 28, 2025 and June 11, 2026."
+False," I'd like to make a reservation at the Sheraton Hotel in Sao Paulo for a stay between August 3rd, 2025, and March 12th, 2026. "
+True," List hotels available in Delhi from July 12, 2026, to July 27, 2026. "
+True," Hello there! I'd like to make a reservation at The Ritz-Carlton hotel in Tokyo for the following dates: March 17, 2026, to March 21, 2026. "
+True," Hey there! I'm looking to book a hotel stay in Manila from September 8, 2025, to May 23, 2026. Can you please provide me with some options for hotels available during this period?"
+True," Are there any hotels available in New York that I can book for the next week? If so, could you please provide some options with their ratings and prices? Thanks!"
+True," Could you please provide me with a list of hotels available for stay in Guangzhou, starting from October 29, 2025?"
+False," Hi there! I'd like to make a reservation at The Exquisite Retreat hotel in Seoul for the nights of July 4th and 5th, 2026. "
+False," Can you please provide me with a list of hotels available for booking in Paris from November 28, 2025, to May 8, 2026?"
+False," Hello, I'd like to make a reservation at the Hotel Excellence Artistry in Sao Paulo for the period of July 17-22, 2026."
+True," Hello, I'd like to make a reservation at Emberline Hotel in Karachi for the dates of May 12, 2026, through May 15, 2026."
+False," Hello, I'd like to make a reservation at the InterContinental Hotel in New York for the dates of January 23, 2026, through February 16, 2026. "
+False," Hello, I'd like to make a reservation at the Hyatt Hotel for the period of April 16, 2026, to May 29, 2026."
+False,"Which hotels are available in Paris from September 30, 2025, to December 20, 2025?"
+True, Are there any hotels available in Mexico City that you can recommend for a comfortable stay? I'm looking for good amenities and a central location.
+True," Hi there! I'm looking for available hotels in Beijing from March 8, 2026, onwards. Could you please provide a list of options along with their rates and amenities?"
+False," Subject: Room Booking Request at Havencrest Inn Hotel, Cape Town
+Dear Hotel Reservations,
+I would like to book a room for an extended stay at the Havencrest Inn Hotel in Cape Town from October 29, 2025, to June 17, 2026."
+True," Hey there! Could you please provide me with a list of hotels available in Seoul from May 2, 2026?"
+False, Hey there! I'd love to book a room at the Hilton Hotel in Sao Paulo for the upcoming week. 
+False," Hello, I'd like to reserve a hotel room in Mumbai for the period of March 6, 2026, to July 17, 2026."
+True," Hello! I'd like to make a reservation at the Four Seasons Hotel in Jakarta for a stay between February 14, 2026, and July 9, 2026. "
+False, Hi there! I'd like to make a reservation at the Urban Luxe Suites in Cape Town for 3 nights starting
+True," Subject: Hotel Room Reservation Request - Epic Estates, Bangkok (December 2025 - July 2026)
+Dear Epic Estates Team,
+I hope this message finds you well. I am interested in booking a room at your esteemed hotel for an extended stay from December 10th, 2025, to July 17th, 2026. "
+False," Hi there! I'd like to make a reservation at the Golden Palace Hotel in Bangkok for the following dates: June 28, 2026, to July 8, 2026."
+True," Could you please provide me with a list of hotels available in New York from February 20, 2026, to June 2, 2026? Thank you."
+True," Hi there! I'm looking to book a stay at the Four Seasons Hotel in Jakarta for a period of 5 months, specifically from February 1, 2026 to July 1, 2026."
+True," Inquiring here! I'm looking for hotels available in Tokyo from May 11, 2026, onwards. Could you please provide a list of options along with their ratings and average nightly rates?"
+False," Hi there! I'd like to book a room at the Opulent Overlook hotel in Jakarta for a stay from August 3, 2025, to January 6, 2026. "
+True," Could you please provide me with a list of hotels available in New York from February 18, 2026, to July 28, 2026? I'd appreciate details such as room types, rates, and any special offers. Thank you!"
+True," Inquiry: Could you please provide a list of hotels available in Manila from August 5, 2025, onwards? I'm interested to know the hotel names, average nightly rates, and any special offers or amenities that might be available. Thank you!"
+True," Hey there! I'm looking for hotel options in Bangkok. Could you please provide some suggestions? Preferably, I'd like a 4-star hotel with good amenities and a convenient location."
+True," Hello there! I'd like to make a reservation for a stay at the Four Seasons Hotel in Jakarta. Could you please assist me in booking a room from August 12, 2025, to June 11, 2026? "
+True," Hi there, I'd like to make a reservation at the Hilton Hotel in Manila for a stay from March 15, 2026, to March 18, 2026."
+False," Hey there, I'd like to reserve a room at your hotel in New York City for the period from February 7, 2026, to June 15, 2026. "
+True," Hey there! I'd like to make a reservation for a room at Enigma's Embrace Haven hotel in Shenzhen. The stay period is from November 8, 2025, to February 5, 2026. "
+False," Hello there, I'd like to make a reservation for two rooms at the Solara Retreat Hotel in Kolkata. The stay period is from April 20, 2026, to June 14, 2026. "
+True," Hello, I'd like to make a reservation at The St. Regis Hotel in New Delhi for a stay from April 3, 2026, to June 14, 2026. "
+False," Hello, I'd like to make a reservation at The Velvet Key Hotel in Moscow please. "
+True," Hi there, I'd like to make a reservation at the InterContinental Hotel in Sao Paulo from July 4, 2026, to July 19, 2026."
+True," Hello there! I'm interested in booking a stay at the Premier Boutique Stay hotel in New York for two nights. Specifically, I need a room from July 29, 2026, to July 30, 2026. "
+False," Hello, I'd like to make a reservation at Solara Retreat hotel for the following dates: September 17, 2025, to November 18, 2025."
+False," Hi, I'd like to make a reservation at the Hilton hotel in Dhaka. "
+False," Hi, I'm looking for hotels available in Paris between May 20, 2026 and July 30, 2026. Could you please provide a list of options with their respective prices and amenities?"
+True," Hi there! I'm looking for available hotels in Jakarta. Can you provide me with some options, please?"
+False, Hi there! I'd like to reserve a room at the Perfect Bliss Hotel in Beijing for my upcoming visit.
+False," Hi there, I'd like to make a reservation at Elite Craft Hotel for the period of May 7th to July 26th, 2026."
+False," Hi, I'd like to book a room at a hotel in Karachi for a stay from July 3, 2026, to July 23, 2026."
+False," Hello, I'd like to make a reservation for a hotel room at the Hyatt hotel in Cairo. The stay period is from September 25, 2025, to January 16, 2026. "
+False," Hello, I'd like to make a reservation for a room at the Prime Prestige Studio hotel in Sao Paulo. "
+True, Hello! I'm looking for hotels in Guangzhou. Could you please provide me with some options for my stay? Thanks!
+False,"If you could invent any technological device that does not currently exist, what would it be and how do you think it would impact our daily lives?"
+False," Can you please provide a list of hotels available for check-in on January 15, 2026, in Keokuk?"
+False," Hello, I'd like to make a reservation for two guests at The St. Regis Hotel, Seoul, from June 18 to July 8, 2026."
+False," Hello, I'd like to make a reservation for a hotel room in Paris from October 19, 2025, to July 12, 2026."
+True," Could you please provide me with some options for hotels in Moscow, Russia? I'd appreciate details such as the hotel name, star rating, average nightly rate, and location. Thank you!"
+False," Subject: Room Reservation Request at Majestic Urban Boutique Hotel, Mumbai (November 8, 2025 - June 11, 2026)
+Dear Team,
+I hope this message finds you well. I am interested in booking a stay at the Majestic Urban Boutique hotel in Mumbai for a duration of approximately eight and a half months, from November 8, 2025, to June 11, 2026."
+False, Hey there! I'm on the lookout for some accommodations in Los Angeles. Could you please provide me with some options for hotels in that area? Thanks!
+True," Can you provide a list of hotels available for check-in from March 21, 2026, in Karachi? Please include details like star rating, amenities, and approximate prices."
+False," Hey there, I'd like to make a reservation for a room at Prime Prestige Studio hotel from February 7th, 2026, to July 20th, 2026."
+False," Hello, I'd like to make a reservation for five nights at the Majestic Urban Boutique Hotel in New York, from July 24, 2026, to July 30, 2026."
+True," Inquiry: Are there any hotels available for stay from March 2, 2026, onwards in Cairo? If so, could you please provide a list with their respective ratings and average nightly rates?"
+True," Can you provide me with a list of hotels available for booking in Guangzhou, China, between May 10, 2026, and June 21, 2026? Additionally, could you please specify the room rates and any included amenities for each hotel?"
+True," Can you provide a list of available hotels in Moscow between April 21, 2026, and June 8, 2026?"
+False," Hey there, I'd like to make a reservation at the Hyatt Hotel for a stay from March 13, 2026, to July 23, 2026."
+False," Hey there! I'd like to make a reservation at the Whispering Dreams hotel in Keokuk for a stay from August 5, 2025, to January 22, 2026."
+False," Hello, I'd like to make a reservation at the InterContinental Hotel in Delhi. "
+True," Hello, I'm looking for hotels available in Karachi from January 8, 2026, onwards. Could you please provide some options with their rates and amenities?"
+True," Hello there! I'd like to make a reservation please. Could you assist me in booking a room at Whispering Dreams hotel in Moscow for the period from June 24, 2026, to July 27, 2026? I'm looking forward to your response "
+False," Hello, I'd like to reserve a room at The Gilded Harbor hotel for a stay from April 28, 2026, to July 13, 2026. "
+False," Subject: Room Booking Request - Majestic Urban Boutique Hotel, Moscow
+Dear Hotel Reservations,
+I hope this message finds you well. I am interested in booking a room at your esteemed establishment, the Majestic Urban Boutique Hotel, in Moscow. Specifically, I would like to reserve a room from March 16, 2026, and check out on May 12, 2026."
+True," Hello! I'm looking for hotels available in Delhi, could you please provide some options? Thank you!"
+True," Hey there! I'd like to reserve a room at the Hyatt Hotel in Shanghai for the period of February 22, 2026, to April 12, 2026. "
+False," Hi there! I'd like to make a reservation for a room at The Ritz-Carlton hotel in Bangkok. I need accommodation from October 1, 2025, to July 26, 2026."
+True," Hi there! I'd like to make a reservation at The St. Regis Hotel, Delhi, for July 27, 2026."
+True," Could you please provide me with a list of hotels available for a stay in Delhi from April 17, 2026, to April 18, 2026? Thank you!"
+False," Hi there! I'm looking for available hotels in Keokuk from April 27, 2026, to June 3, 2026. Could you please provide some options for me?"
+False," If you were to create an app that promotes eco-friendly practices, what unique features would it have and how would these features encourage users to adopt more sustainable habits?"
+False," Hey there! I'd like to make a reservation for a hotel stay in Guangzhou, China. The desired check-in date is February 23, 2026, and the check-out date is June 30, 2026. "
+True, Hi there! I'm looking for available hotels in Shenzhen. Could you please provide a list of options along with their ratings and average nightly rates? Thanks!
+False,Can you explain the process of photosynthesis in plants and how it contributes to our ecosystem?
+True," Can you provide a list of hotels available for stay in Delhi between January 13, 2026, and February 3, 2026? Also, could you please mention the room rates for each hotel? Thank you."
+True," Could you please provide me with a list of available hotels in New York, along with their respective ratings and average nightly rates? Also, it would be helpful if you could show options for both budget and luxury accommodations. Thank you!"
+True," Could you please provide me with a list of hotels available in Delhi from August 8, 2025, to October 19, 2025? Thank you."
+False," Hello, I'd like to make a reservation for a room at the Hilton hotel in Sao Paulo from November 24, 2025, to January 8, 2026."
+True," Could you please provide a list of hotels available in Seoul, South Korea between May 15, 2026, and June 6, 2026? I'd appreciate it if you could also include the hotel ratings, prices, and any special offers or amenities."
+True," Could you please provide me with a list of hotels available in Delhi from January 22, 2026?"
+True," Hi there! I'm looking for hotels in Mexico City. Could you please provide a list of options with their ratings, amenities, and approximate prices? Thanks!"
+True," Subject: Room Reservation at The Exquisite Retreat Hotel, Beijing - June 26 to July 7, 2026
+Dear Hotel Booking Team,
+I am writing to request a room reservation at The Exquisite Retreat hotel in Beijing for the period of June 26 to July 7, 2026. "
+True," Hi, could you please provide me with a list of hotels available in Sao Paulo?"
+True," Could you please provide a list of hotels available for booking in Tokyo, Japan between September 17, 2025 and June 16, 2026? I am interested in knowing the accommodation options and their respective prices."
+False," Hello, I'm looking for available hotels in Keokuk from December 22, 2025, to March 2, 2026. Could you please provide me with some options and their rates?"
+True," Could you please provide a list of hotels available for booking in Karachi, Pakistan from June 26, 2026 to July 12, 2026? I'd appreciate details such as room type, rates, and amenities offered."
+True," Could you please provide me with a list of hotels available in Mexico City, along with their rates and amenities? I'm particularly interested in accommodations offering Wi-Fi access and breakfast included in the room rate. Thank you!"
+True," Hey there! I'm looking for available hotels in Delhi for my upcoming trip. Can you provide some options with their ratings, prices, and amenities? Thanks!"
+True," Can you provide a list of hotels available in Manila from January 12, 2026? Also, could you please mention the room rates and any special offers if applicable?"
+False," Hello, I'd like to make a reservation at Emberline Hotel for the following dates: May 12, 2026 to May 30, 2026."
+False,What are the factors that contribute to the formation of lightning during a thunderstorm?
+False," Inquiry: What hotels are available in Cape Town with check-in on July 21, 2026? Please provide options along with room rates and amenities."
+True," Hello, I'd like to make a reservation for a room at the Supreme Solitude Hotel in Moscow from July 22 to July 30, 2026. "
+True," Hello, could you please provide me with a list of hotels available in Shanghai between August 29, 2025, and April 18, 2026?"
+True," Can you provide a list of hotels available in Bangkok from February 18, 2026, to June 26, 2026? Also, if possible, could you mention any special offers or discounts for those dates?"
+True," Can you provide me with a list of hotels available in Bangkok from December 26, 2025, onwards?"
+False,"If you could travel back in time, which historical event or period would you most want to witness and why? And if you could bring along one invention from the modern world, what would it be and how do you think it would impact that particular era?"
+False," Subject: Hotel Room Reservation - Enigma's Embrace Haven, Shanghai (Dec 18, 2025 - Jan 28, 2026)
+Dear Enigma's Embrace Haven Team,
+I hope this message finds you well. I am interested in booking a room for my stay at your magnificent hotel in Shanghai from December 18, 2025 to January 28, 2026. "
+True," Hello! I'm interested in booking a stay at the Prime Prestige Studio hotel in Mexico City. Could you please assist me in securing a room for the period between April 8, 2026, and May 15, 2026? I look forward to your response. Thank you!"
+True, Hey there! Could you please provide me with some options for hotels available in Sao Paulo?
+True," Hello, I'd like to make a reservation at the Hilton Hotel in Manila for the period of March 19, 2026, to April 24, 2026. Could you please provide me with available room options and rates for this duration?"
+False," Hey there! I'm looking for hotels in Paris, France from July 10, 2026 to July 24, 2026. Can you provide some options with available rooms during that period?"
+True," Hey there! I'd like to reserve a room at Supreme Solitude Hotel in Moscow for the period between December 29, 2025 and February 26, 2026."
+True," Hey there! I'd like to make a reservation for two at the Signature Boutique Hotel, Kolkata, from April 7th, 2026, until May 21st, 2026."
+True," Can you provide a list of hotels available in Karachi from July 14, 2026?"
+False," Subject: Room Reservation Request - LegacyCraft Suites, Mumbai
+Dear Hotel Reservations,
+I would like to make a reservation for one night at your esteemed establishment, specifically LegacyCraft Suites in Mumbai. "
+False," Hello! I'd like to book a room at Perfect Bliss hotel in Moscow for the period from August 17, 2025, to December 16, 2025. "
+True," Hello, I'd like to make a reservation at The Velvet Key hotel in Kolkata from July 25, 2026, to July 28, 2026. "
+False," Hi there! I'd like to make a reservation at The Velvet Key Hotel in Karachi, please."
+True," Hello, I'm looking to book a hotel room in New York City starting from February 25, 2026. Can you please provide me with some options and the corresponding rates?"
+True," Hey there! I'm looking for hotels in Sao Paulo with check-in after January 28, 2026. Could you please provide me a list of available options?"
+True," Hi there! I'm looking for hotel availability in Sao Paulo from December 5, 2025, to February 12, 2026. Could you please provide me with some options and prices?"
+False," I am reaching out to book a room at your esteemed establishment, the Elite Craft Hotel in Karachi, for an extended stay from December 5th, 2025 to July 31st, 2026. "
+True," Hello, I'd like to make a reservation for a stay at the Sheraton Hotel in Seoul, South Korea. I need a room from August 22, 2025, through January 21, 2026."
+False," Hello, I'd like to make a reservation at the Crowne Plaza hotel for a stay from March 8, 2026, to May 5, 2026."
+True," Could you please provide me with a list of hotels available in Sao Paulo from September 8, 2025, to October 11, 2025? Also, it would be helpful if I could see the room rates for each hotel. Thank you!"
+False," Hi, I'm looking for available hotels in Paris from July 25, 2026, onwards. Could you please provide me with some options?"
+False," Subject: Room Reservation Request for Marrow & Stone Hotel (2026-03-26 - 2026-05-14)
+Dear Hotel Reservations,
+I would like to book a room at the Marrow & Stone hotel from March 26th, 2026, to May 14th, 2026. "
+True," Hi there! I'd like to make a reservation at LegacyCraft Suites hotel in Shenzhen for the period of April 9 to July 13, 2026."
+True," Can you provide me with a list of hotels available in Dhaka from June 6, 2026 onwards?"
